@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-repeat-shopping/static/css/main.b781c748.css",
+    "main.js": "/f4-repeat-shopping/static/js/main.7c9e496d.js",
+    "index.html": "/f4-repeat-shopping/index.html",
+    "main.b781c748.css.map": "/f4-repeat-shopping/static/css/main.b781c748.css.map",
+    "main.7c9e496d.js.map": "/f4-repeat-shopping/static/js/main.7c9e496d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b781c748.css",
+    "static/js/main.7c9e496d.js"
+  ]
+}
