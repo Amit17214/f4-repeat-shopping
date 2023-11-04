@@ -8,11 +8,11 @@ const Navbar = () => {
         <div>
             <div className="navbar">
                 <div className="left">
-                    <h3 onClick={() => navigate("/")}>Shopping Cart</h3>
+                    <h3 onClick={() => navigate("/f4-repeat-shopping")}>Shopping Cart</h3>
                 </div>
 
                 <div className="right">
-                    <h4 onClick={() => navigate("/")}>Home Page</h4>
+                    <h4 onClick={() => navigate("/f4-repeat-shopping")}>Home Page</h4>
                     <h4 onClick={() => navigate("/cart")}>Cart Page</h4>
                 </div>
             </div>
